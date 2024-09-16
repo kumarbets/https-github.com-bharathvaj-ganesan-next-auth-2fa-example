@@ -1,0 +1,5 @@
+nvm use 16.13
+
+use npm commands:
+rm -rf node_modules/  yarn.lock ; yarn cache clean; npm cache clean --force; npm i; npm run dev
+
